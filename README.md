@@ -1,4 +1,4 @@
-Code scrapes Central Bank of Ireland enforcement notices(public).
+Code scrapes Central Bank of Ireland enforcement notices(public). This scrape extracted information relating to enforcement notices that dated from 7/7/2006 to the most recent notice dated 29/4/2019
 
 The function of interest uses multiple Python libraries to extract publicly available information from the Central bank of Ireland's webpages. 
 
